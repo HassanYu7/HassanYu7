@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">A passionate native android developer & backgend developer from KSA</h3>
+<h3 align="center">A passionate native android developer & backend developer</h3>
 
 - 🔭 I’m currently working on [Water-Management-System](https://github.com/HassanAlhejaili/Water-Management-System)
 
