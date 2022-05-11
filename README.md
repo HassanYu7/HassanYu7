@@ -6,7 +6,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HassanYu7&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanYu7&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HassanYu7&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
 
 
