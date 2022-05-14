@@ -7,7 +7,7 @@
 
 
 <details>
-    <summary>📈 WakaTime and GitHub Stats</summary>
+    <summary>WakaTime and GitHub Stats</summary>
   
 
 <!--START_SECTION:waka-->
