@@ -1,5 +1,3 @@
-
-
 <p align="center">
 
   <img width="150" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Material Bread logo">
