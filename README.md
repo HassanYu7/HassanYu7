@@ -1,8 +1,5 @@
 <p align="center">
-
-  <img width="150" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Material Bread logo">
-<img width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code logoColor=white" alt="Material Bread logo">
-
+  <img width="150" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
 
 ## Technologies
