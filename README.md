@@ -18,6 +18,82 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-181-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 89 Contributions in the Year 2022
+ > 
+> 📦 8.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    19 commits     █████░░░░░░░░░░░░░░░░░░░░   21.84% 
+🌆 Daytime    49 commits     ██████████████░░░░░░░░░░░   56.32% 
+🌃 Evening    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.05% 
+🌙 Night      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
+Tuesday      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+Wednesday    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
+Thursday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+Friday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
+Saturday     49 commits     ██████████████░░░░░░░░░░░   56.32% 
+Sunday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.2%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Riyadh
+
+💬 Programming Languages: 
+Java                     6 mins              █████████████████████░░░░   86.8% 
+XML                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+
+🔥 Editors: 
+Android Studio           7 mins              █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+ENSIAS_Wiki_Hub          7 mins              █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  7 mins              █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     6 repos             ████████████████░░░░░░░░░   66.67% 
+PHP                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/HassanYu7/HassanYu7/main/charts/bar_graph.png) 
+
+
+ Last Updated on 14/05/2022 12:02:45 UTC
 <!--END_SECTION:waka-->
 
 
