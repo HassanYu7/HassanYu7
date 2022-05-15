@@ -17,7 +17,6 @@
  ## WakaTime and GitHub Stats
 
 <!--START_SECTION:waka-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanYu7&theme=tokyonight)
 ![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2033%20mins-blue)
 
 **I'm an Early 🐤** 
