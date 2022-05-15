@@ -13,11 +13,11 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanYu7&theme=tokyonight)
 
  ## WakaTime and GitHub Stats
 
 <!--START_SECTION:waka-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanYu7&theme=tokyonight)
 ![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2033%20mins-blue)
 
 **I'm an Early 🐤** 
