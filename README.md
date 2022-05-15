@@ -17,7 +17,7 @@
  ## WakaTime and GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2033%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -70,7 +70,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2022 06:37:29 UTC
+ Last Updated on 15/05/2022 18:46:33 UTC
 <!--END_SECTION:waka-->
 
 
