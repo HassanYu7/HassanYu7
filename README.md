@@ -1,4 +1,4 @@
-# <div align="left">Hi there 👋</div>  
+# <div align="left">💫 About Me</div>  
   
 
 - 🔭 I’m currently working on [BalsemTabiah](https://github.com/rishavanand/github-profilinator)  
@@ -16,7 +16,7 @@
 <br/>  
 
 
-# <div align="left">Hi there 👋</div>   
+# <div align="left">📊 GitHub Stats</div>   
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HassanYu7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanYu7&hide_border=true&layout=compact" align="center" /></div>  
