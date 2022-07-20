@@ -8,15 +8,13 @@
   
 
 - 🎖️  I'm currently preparing for the OCA 1Z-808 certification  
-  
 
 <br/>  
-
 
 ## 📊 GitHub Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HassanYu7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=HassanYu7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanYu7&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanYu7&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
