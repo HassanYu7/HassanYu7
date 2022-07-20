@@ -1,7 +1,7 @@
-# <div align="left">💫 About Me</div>  
+## 💫 About Me  
   
 
-- 🔭 I’m currently working on [BalsemTabiah](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [BalsemTabiah](https://github.com/HassanYu7/BalsemTabiah)  
   
 
 - 🌱 I’m currently learning Kotlin, Jetpack Cmopose, MVVM  
@@ -17,6 +17,7 @@
 
 
 # <div align="left">📊 GitHub Stats</div>   
+## 📊 GitHub Stats 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HassanYu7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanYu7&hide_border=true&layout=compact" align="center" /></div>  
