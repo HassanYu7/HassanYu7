@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Kotlin, Jetpack Cmopose, MVVM  
   
 
-- 🎖️  I'm currently preparing for the OCA 1Z-808 certification  
+- 🎖️  I'm currently preparing for the OCA 1Z0-808 certification  
 
 ## 📊 GitHub Stats 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=HassanYu7&show_icons=true&count_private=true&hide_border=true" align="center" /></div><br/>
