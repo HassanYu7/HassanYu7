@@ -2,10 +2,7 @@
   
 
 - 🔭 I’m currently working on [Balsem-Tabiah](https://github.com/HassanYu7/Balsem-Tabiah)  
-  
-
-- 🌱 I’m currently learning Kotlin, Jetpack Cmopose, MVVM  
-  
+    
 
 - 🎖️  I'm currently preparing for the OCA 1Z0-808 certification  
   
