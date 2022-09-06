@@ -1,8 +1,6 @@
 ## 💫 About Me  
   
 
-- 🔭 I’m currently working on [Balsem-Tabiah](https://github.com/HassanYu7/Balsem-Tabiah)  
-
 
 - 🌱 I’m currently learning Kotlin, Jetpack Cmopose, MVVM
     
