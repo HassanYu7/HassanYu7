@@ -2,7 +2,6 @@
   
 
 
-- 🌱 I’m currently learning Kotlin, Jetpack Cmopose, MVVM
     
 
 - 👯 I’m looking to collaborate with other developers
