@@ -17,8 +17,6 @@
 
 ## Technologies and Tools
 
-#### Currently working with:
-
 - Currently working with:\
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,tailwind,mysql,figma,vscode)](https://skillicons.dev)
 
