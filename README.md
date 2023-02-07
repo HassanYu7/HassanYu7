@@ -17,11 +17,11 @@
 
 ## Technologies and Tools
 
-- Currently working with:
+- Currently working with:\
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,tailwind,mysql,figma,vscode)](https://skillicons.dev)
 
 
-- Previously worked with:
+- Previously worked with:\
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,androidstudio,sqlite,xd)](https://skillicons.dev)
 
 
