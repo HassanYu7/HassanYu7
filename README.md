@@ -18,29 +18,29 @@
 ## Technologies and Tools
 
 #### Currently working with:
-- Languages & Frameworks
+- Languages & Frameworks\
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
-- Database
+- Database\
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-- UI/UX 
+- UI/UX\
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-- IDEs
+- IDEs\
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 #### Previously worked with:
-- Languages & Frameworks
+- Languages & Frameworks\
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
 
-- Database
+- Database\
 [![My Skills](https://skillicons.dev/icons?i=sqlite,firebase)](https://skillicons.dev)
 
-- UI/UX 
+- UI/UX\
 [![My Skills](https://skillicons.dev/icons?i=xd)](https://skillicons.dev)
 
-- IDEs
+- IDEs\
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea)](https://skillicons.dev)
 
 
