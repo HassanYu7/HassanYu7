@@ -17,12 +17,31 @@
 
 ## Technologies and Tools
 
-- Currently working with:\
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,tailwind,mysql,figma,vscode)](https://skillicons.dev)
+#### Currently working with:
+- Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
+- Database
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-- Previously worked with:\
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,androidstudio,sqlite,xd)](https://skillicons.dev)
+- UI/UX 
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+- IDEs
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+#### Previously worked with:
+- Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
+
+- Database
+[![My Skills](https://skillicons.dev/icons?i=sqlite,firebase)](https://skillicons.dev)
+
+- UI/UX 
+[![My Skills](https://skillicons.dev/icons?i=xd)](https://skillicons.dev)
+
+- IDEs
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea)](https://skillicons.dev)
 
 
 
