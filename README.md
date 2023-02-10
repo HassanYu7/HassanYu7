@@ -18,7 +18,7 @@
 ## Technologies and Tools
 
 - Currently working with:\
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,tailwind,mysql,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,tailwind,mysql,figma,vscode)](https://skillicons.dev)
 
 
 - Previously worked with:\
