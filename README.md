@@ -11,6 +11,7 @@
 </div>
 
 ##  About me
+- 🌱 I'm currently learning Spring boot
 - 👯 I’m looking to collaborate with other developers
 - 📫 Contact me [HassanAlhejaili7@gmail.com](mailto:HassanAlhejaili7@gmail.com)
 
