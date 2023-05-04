@@ -31,5 +31,5 @@
 
 ![Hassan GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hassanyu7&show_icons=true&theme=nord&count_private=true)
 
-[![Hassan wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassanyu&theme=nord&layout=compact&langs_count=8&hide=Groovy,XML&hide_progress&custom_title=Last+7+Days+Coding+Stats&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+[![Hassan wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassanyu&theme=nord&layout=compact&langs_count=8&hide=Groovy,XML&hide_progress&custom_title=Last+7+Days+Coding+Stats,range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
