@@ -11,7 +11,7 @@
 </div>
 
 ##  About me
-- 🔭 I am currently working on the IntelliJot Smart Note project
+- 🔭 I am currently working on the [IntelliJot](https://github.com/HassanYu7/intellijot) project
 - 📫 Contact me [HassanAlhejaili7@gmail.com](mailto:HassanAlhejaili7@gmail.com)
 
 
