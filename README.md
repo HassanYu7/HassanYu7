@@ -1,16 +1,16 @@
 ##  About me
-- 🔭 I am currently working on the [IntelliJot](https://github.com/HassanYu7/intellijot) project
+- :sunglasses: At the moment, I'm deeply focused on learning test automation in a bootcamp.
 - 📫 Contact me [HassanAlhejaili7@gmail.com](mailto:HassanAlhejaili7@gmail.com)
 
 
 ## Technologies and Tools
 
 - Currently working with:\
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,tailwind,mysql,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,selenium,postman,mysql,figma,idea,maven,jenkins,html)](https://skillicons.dev)
 
 
 - Previously worked with:\
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,androidstudio,sqlite,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,kotlin,firebase,androidstudio,sqlite,xd)](https://skillicons.dev)
 
 
 
