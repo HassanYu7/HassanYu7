@@ -1,5 +1,5 @@
 ##  About me
-- :sunglasses: At the moment, I'm deeply focused on learning test automation in a bootcamp.
+- :sunglasses: I'm deeply focused on learning test automation.
 - 📫 Contact me [HassanAlhejaili7@gmail.com](mailto:HassanAlhejaili7@gmail.com)
 
 
