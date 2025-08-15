@@ -1,17 +1,3 @@
-##  About me
-- :sunglasses: I'm deeply focused on learning test automation.
-- 📫 Contact me [HassanAlhejaili7@gmail.com](mailto:HassanAlhejaili7@gmail.com)
-
-
-## Technologies and Tools
-
-- Currently working with:\
-[![My Skills](https://skillicons.dev/icons?i=java,selenium,postman,mysql,figma,idea,maven,jenkins,html)](https://skillicons.dev)
-
-
-- Previously worked with:\
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,kotlin,firebase,androidstudio,sqlite,xd)](https://skillicons.dev)
-
 
 
 ##  Stats [Github - Wakatime]
