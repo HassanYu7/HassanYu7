@@ -1,7 +1,5 @@
 # Hi, I'm Hassan 👋
 
-### Test Automation Engineer | ISTQB® CTAL-TAE
-
 ---
 
 ### 📊 Stats & Activity
