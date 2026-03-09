@@ -37,3 +37,5 @@
 * 📫 Connect with me on [LinkedIn](https://linkedin.com/in/hassan-alhejaili)
 
 <br />
+
+![](https://komarev.com/ghpvc/?username=hassanyu7&abbreviated=true)
